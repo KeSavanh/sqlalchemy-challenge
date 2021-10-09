@@ -131,3 +131,4 @@ dmypy.json
 .DS_Store
 # hide checkpoints files
 .ipynb_checkpoints
+.git
