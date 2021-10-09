@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 # hide DS store
 .DS_Store
+# hide checkpoints files
+.ipynb_checkpoints
