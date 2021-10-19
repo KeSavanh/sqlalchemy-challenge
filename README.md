@@ -1,2 +1,2 @@
-# sqlalchemy-challenge
+# SQLAlchemy Homework - Surfs Up!
 for sqlalchemy assignment
