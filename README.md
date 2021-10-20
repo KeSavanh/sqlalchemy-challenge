@@ -1,5 +1,6 @@
 # SQLAlchemy Homework - Surfs Up!
 ## Climate Analysis and Exploration
+SQLAlchemy and Python were used to conduct analysis of climate in this assignment. A database file `hawaii.sqlite` was connected to a jupyter notebook in order to explore tables in the database. In the notebook the connection was created using `create_engine` and `automap_base` was used to reflect tables into classes. Then data was saved into dataframes for further analysis. The precipitation and station analysis was conducted in this [climate_analysis.ipynb](https://github.com/KeSavanh/sqlalchemy-challenge/blob/main/climate_analysis.ipynb).
 ## Precipition Analysis
 
 * Retrieve the last 12 months of precipitation data by querying the 12 preceding months of data. 
