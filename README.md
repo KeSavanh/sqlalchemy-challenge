@@ -43,7 +43,7 @@ SQLAlchemy and Python were used to conduct analysis of climate in this assignmen
 
 ![St](output/figures/temp_station_81.png)
 ## Climate App
-The climate App [(app.py)](http://127.0.0.1:5000/) was created to serve APIs for each routes below:
+The climate App [(app.py)](http://127.0.0.1:5000) was created to serve APIs for each routes below:
 
 ### Routes
 
