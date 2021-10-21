@@ -77,5 +77,10 @@ The climate App [(app.py)](https://github.com/KeSavanh/sqlalchemy-challenge/blob
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
 
 ## Temperature Analysis I
+[temp_analysis_1.ipynb](https://github.com/KeSavanh/sqlalchemy-challenge/blob/main/temp_analysis_2.ipynb)
+
 ## Temperature Analysis II
+[temp_analysis_2.ipynb](https://github.com/KeSavanh/sqlalchemy-challenge/blob/main/temp_analysis_2.ipynb)
+![pic1](output/figures/temp_2.png)
+![pic2](output/figures/normals.png)
 
