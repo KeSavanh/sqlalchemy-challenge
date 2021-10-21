@@ -80,7 +80,9 @@ The climate App [(app.py)](https://github.com/KeSavanh/sqlalchemy-challenge/blob
 [temp_analysis_1.ipynb](https://github.com/KeSavanh/sqlalchemy-challenge/blob/main/temp_analysis_2.ipynb)
 
 ## Temperature Analysis II
-[temp_analysis_2.ipynb](https://github.com/KeSavanh/sqlalchemy-challenge/blob/main/temp_analysis_2.ipynb)
-![pic1](output/figures/temp_2.png)
+[temp_analysis_2.ipynb](https://github.com/KeSavanh/sqlalchemy-challenge/blob/main/temp_analysis_2.ipynb)\
+
+![pic1](output/figures/temp_2.png)\
+
 ![pic2](output/figures/normals.png)
 
